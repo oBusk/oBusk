@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Oscar Busk, and I work for [@Silobreaker](https://github.com/Silobreaker) as a frontend developer, working mainly with Typescript and Angular.
+My name is Oscar Busk, and I work for [Silobreaker](https://github.com/Silobreaker) as a frontend developer, working mainly with Typescript and Angular.
 
 I really enjoy working with Typescript and I find [Next.js](https://github.com/vercel/next.js) and Node very interesting to play around with on my freetime.
 
